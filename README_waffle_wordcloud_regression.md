@@ -34,6 +34,7 @@ The project focuses on creating:
 - Pillow
 
 ## Key Visualizations
+![Project Preview](Picture3.png)![Project Preview](Picture6.png)![Project Preview](Picture5.png)![Project Preview](Picture4.png)
 
 ### 1. Waffle Charts
 
